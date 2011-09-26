@@ -2498,7 +2498,7 @@ case "${target}" in
 	subdirs="$subdirs moxie"
 
 	;;
-  microblaze-*-*)
+  microblaze*-*-*)
 	subdirs="$subdirs microblaze"
 
 	;;
